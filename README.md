@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A sermon preached at the happily-restored and reedified chappell of the Right Honorable the Earle of
+
+1. TO THE RIGHT HONOVRABLE, MY SINGVLAR good Lady, the Lady Elizabeth, Counteſſe of Exceter.
+
+1. TO THE WORSHIPFVLL AND REVEREND, Mr. Dr. HALL, Deane of Worceſter, my worthy and much reſpected Friend, all happineſſe, with my loue in Chriſt Ieſus.
+
 #####Body#####
-A sermon preached at the happily-restored and reedified chappell of the Right Honorable the Earle of
+
+1. A SERMON PREACHED AT THE reedified Chappell of the Right Honorable, the Earle of Exceter, in his Houſe of Saint Iohns.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
